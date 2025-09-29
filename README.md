@@ -1,10 +1,10 @@
 **Team Members:**
-1. Full Name: *Zanele Ngwenya*
-   Email: zngwenya@constructor.university
-2. Full Name: *Jooyoung Yang*
-   Email: joyang@constructor.university
-3. Full Name: *Subhankar.Biswas*
-   Email: subiswas@constructor.university
+1. *Zanele Ngwenya*
+   zngwenya@constructor.university
+2. *Jooyoung Yang*
+   joyang@constructor.university
+3. *Subhankar.Biswas*
+   subiswas@constructor.university
 
 **Project Title: University Research Project Management System**
 
